@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Donate Blood</string>
+    <string name="please_select_a_blood_group_to_find_donor">Please select a Blood group to find donor</string>
+</resources>
